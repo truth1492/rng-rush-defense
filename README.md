@@ -10,9 +10,9 @@ Summon units by chance, place them strategically, and defend your base from mons
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/mainmenu.png" width="45%" alt="Main Menu"/>
+  <img src="Screenshots/mainmenu.png" width="45%" alt="Main Menu"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/ingame.png" width="45%" alt="Gameplay"/>
+  <img src="Screenshots/ingame.png" width="45%" alt="Gameplay"/>
 </p>
 
 ---
