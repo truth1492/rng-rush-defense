@@ -50,8 +50,12 @@ and fend off waves of increasingly powerful monsters.
 | Monster Animations | ✅ Complete |
 | Game UI | ✅ Complete |
 | Wave System | ✅ Complete |
-| Google Play Release | 🔄 In Progress |
-| App Store Release | 🔄 In Progress |
+| Shop System | 🔄 In Progress |
+| Upgrade System | 🔄 In Progress |
+| Game Balance | 🔄 In Progress |
+| In-game Ad System | 🔄 In Progress |
+| Google Play Release | ⏳ Planned |
+| App Store Release | ⏳ Planned |
 
 ---
 
