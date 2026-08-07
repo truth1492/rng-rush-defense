@@ -3,7 +3,7 @@
 An Android/iOS tower defense mobile game built with Unity and C#.
 Summon units by chance, place them strategically, and defend your base from monster waves.
 
-> 🚀 **Expected Release: August 2026** — Google Play & App Store
+> 🚀 **Expected Release: October 2026** — Google Play & App Store
 
 ---
 
