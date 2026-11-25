@@ -15,7 +15,9 @@ Summon units by chance, place them strategically, and defend your base from mons
   <img src="Screenshots/ingame.png" width="45%" alt="Gameplay"/>
 </p>
 
-[![Watch Mobile Gameplay Video](YOUR_SCREENSHOT_URL)](https://files.catbox.moe/qz4rka.mp4)
+<p align="center">
+  <a href="https://files.catbox.moe/qz4rka.mp4">▶️ Watch Mobile Gameplay Video</a>
+</p>
 
 ---
 
